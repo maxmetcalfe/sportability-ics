@@ -12,11 +12,6 @@ const TEAM = "Rink Rats";
 // Specify raw events file.
 const FILE_PATH="./events.txt";
 
-// Define locations
-const LOCATIONS = {
-  "James Lick Arena": { lat: 40.0095, lon: 105.2669 }
-};
-
 // Define duraction of event.
 const DURATION = { hours: 2 };
 
@@ -71,8 +66,7 @@ lines.forEach((line) => {
       title: title,
       start: date.concat(time),
       duration: DURATION,
-      location: location,
-      geo: LOCATIONS[location]
+      location: location
     };
 
     events.push(event);
