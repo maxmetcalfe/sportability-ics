@@ -1,0 +1,14 @@
+{
+  "name": "sportability-ics",
+  "version": "1.0.0",
+  "description": "Export Sportability events to ICS file.",
+  "main": "index.js",
+  "author": "Max Metcalfe",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ics": "^2.16.0"
+  }
+}

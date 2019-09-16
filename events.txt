@@ -1,0 +1,63 @@
+Sat 9/21/2019	9:00a  	Reign at Seals		James Lick Arena	
+11:00a  	Yetis at Kings		James Lick Arena	
+1:00p  	Rink Rats at Red Army		James Lick Arena	
+Sat 9/28/2019	9:00a  	Landsharks at Kings		James Lick Arena	
+11:00a  	Reign at Red Army		James Lick Arena	
+1:00p  	Yetis at Rink Rats		James Lick Arena	
+Sat 10/5/2019	9:00a  	Rink Rats at Reign		James Lick Arena	
+11:00a  	Red Army at Landsharks		James Lick Arena	
+1:00p  	Kings at Seals		James Lick Arena	
+Sat 10/12/2019	9:00a  	Kings at Rink Rats		James Lick Arena	
+11:00a  	Seals at Yetis		James Lick Arena	
+1:00p  	Landsharks at Reign		James Lick Arena	
+Sat 10/19/2019	9:00a  	Red Army at Yetis		James Lick Arena	
+11:00a  	Kings at Reign		James Lick Arena	
+1:00p  	Seals at Landsharks		James Lick Arena	
+Sat 10/26/2019	9:00a  	Seals at Red Army		James Lick Arena	
+11:00a  	Landsharks at Rink Rats		James Lick Arena	
+1:00p  	Reign at Yetis		James Lick Arena	
+Sat 11/2/2019	9:00a  	Yetis at Landsharks		James Lick Arena	
+11:00a  	Rink Rats at Seals		James Lick Arena	
+1:00p  	Red Army at Kings		James Lick Arena	
+Sat 11/9/2019	9:00a  	Kings at Yetis		James Lick Arena	
+11:00a  	Red Army at Rink Rats		James Lick Arena	
+1:00p  	Seals at Reign		James Lick Arena	
+Sat 11/16/2019	9:00a  	Red Army at Reign		James Lick Arena	
+11:00a  	Rink Rats at Yetis		James Lick Arena	
+1:00p  	Kings at Landsharks		James Lick Arena	
+Sat 11/23/2019	9:00a  	Landsharks at Red Army		James Lick Arena	
+11:00a  	Seals at Kings		James Lick Arena	
+1:00p  	Reign at Rink Rats		James Lick Arena	
+Sat 12/7/2019	9:00a  	Yetis at Seals		James Lick Arena	
+11:00a  	Reign at Landsharks		James Lick Arena	
+1:00p  	Rink Rats at Kings		James Lick Arena	
+Sat 12/14/2019	9:00a  	Reign at Kings		James Lick Arena	
+11:00a  	Landsharks at Seals		James Lick Arena	
+1:00p  	Yetis at Red Army		James Lick Arena	
+Sat 12/21/2019	9:00a  	Rink Rats at Landsharks		James Lick Arena	
+11:00a  	Yetis at Reign		James Lick Arena	
+1:00p  	Red Army at Seals		James Lick Arena	
+Sat 1/11/2020	9:00a  	Seals at Rink Rats		James Lick Arena	
+11:00a  	Kings at Red Army		James Lick Arena	
+1:00p  	Landsharks at Yetis		James Lick Arena	
+Sat 1/25/2020	9:00a  	Rink Rats at Red Army		James Lick Arena	
+11:00a  	Reign at Seals		James Lick Arena	
+1:00p  	Yetis at Kings		James Lick Arena	
+Sat 2/1/2020	9:00a  	Yetis at Rink Rats		James Lick Arena	
+11:00a  	Landsharks at Kings		James Lick Arena	
+1:00p  	Reign at Red Army		James Lick Arena	
+Sat 2/8/2020	9:00a  	Kings at Seals		James Lick Arena	
+11:00a  	Rink Rats at Reign		James Lick Arena	
+1:00p  	Red Army at Landsharks		James Lick Arena	
+Sat 2/22/2020	9:00a  	Landsharks at Reign		James Lick Arena	
+11:00a  	Kings at Rink Rats		James Lick Arena	
+1:00p  	Seals at Yetis		James Lick Arena	
+Sat 2/29/2020	9:00a  	Seals at Landsharks		James Lick Arena	
+11:00a  	Red Army at Yetis		James Lick Arena	
+1:00p  	Kings at Reign		James Lick Arena	
+Sat 3/7/2020	9:00a  	Reign at Yetis		James Lick Arena	
+11:00a  	Seals at Red Army		James Lick Arena	
+1:00p  	Landsharks at Rink Rats		James Lick Arena	
+Sat 3/14/2020	9:00a  	Red Army at Kings		James Lick Arena	
+11:00a  	Yetis at Landsharks		James Lick Arena	
+1:00p  	Rink Rats at Seals		James Lick Arena
